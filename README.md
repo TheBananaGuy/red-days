@@ -6,6 +6,7 @@
 - **ISSUE:** SQL data is retrieved, but not properly handled
 	- Array data is shown earlier than the requested data from backend
 	- Requested data does not change on week change, unlike everything else
+- Expect no styling until all the intended functionality is finished
 
 Due to the issue, I am unable to continue my work on the exercise and will continue only after a better understanding of what should be done to resolve the issue mentioned above.
 
