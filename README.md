@@ -32,8 +32,9 @@ Simply run **index.html**
 **NB!:** ReactJS dependencies are fetched from a CDN. If you wish to go offline, uncomment the offline scripts and comment out the online scripts in **index.html**. There is no difference between the contents of the scripts.
 
 ## TODO-s
-- Fix data retrieval in the day component
-- Add Redux
+- **CORE:** Fix data retrieval in the day component
+- **CORE:** Add Redux
+- Style some with Sass, make it responsive
 - Add some extra features
-	- A reset button
-- Style some with Sass
+	- A reset/default button for the selected week
+	- Separate table in the DB for holiday types
