@@ -3,7 +3,7 @@
 ## Current status
 - The app generates the days for a given week
 - Default day is always current week's Monday
-- **ISSUE:** MySQL data is retrieved, but not properly handled
+- **ISSUE:** SQL data is retrieved, but not properly handled
 	- Array data is shown earlier than the requested data from backend
 	- Requested data does not change on week change, unlike everything else
 
